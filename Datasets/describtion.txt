@@ -1,0 +1,35 @@
+V_ED_ChangeOpenClose   --->  The value      of the change between the closing and opening price of EUR/USD
+P_ED_ChangeOpenClose   --->  The percentage of the change between the closing and opening price of EUR/USD
+V_ED_ChangeClose       --->  The value      of the change in      the closing             price of EUR/USD
+P_ED_ChangeClose       --->  The percentage of the change in      the closing             price of EUR/USD
+V_PD_ChangeOpenClose   --->  The value      of the change between the closing and opening price of GBP/USD
+P_PD_ChangeOpenClose   --->  The percentage of the change between the closing and opening price of GBP/USD
+V_PD_ChangeClose       --->  The value      of the change in      the closing             price of GBP/USD
+P_PD_ChangeClose       --->  The percentage of the change in      the closing             price of GBP/USD
+V_EP_ChangeOpenClose   --->  The value      of the change between the closing and opening price of EUR/GBP
+P_EP_ChangeOpenClose   --->  The percentage of the change between the closing and opening price of EUR/GBP
+V_EP_ChangeClose       --->  The value      of the change in      the closing             price of EUR/GBP
+P_EP_ChangeClose       --->  The percentage of the change in      the closing             price of EUR/GBP
+
+V_USD_ChangeOpenClose  --->  The value      of the change between the closing and opening price of Dollar Indice
+P_USD_ChangeOpenClose  --->  The percentage of the change between the closing and opening price of Dollar Indice
+V_GLD_ChangeClose      --->  The value      of the change in      the closing             price of Gold
+P_GLD_ChangeClose      --->  The percentage of the change in      the closing             price of Gold
+V_OIL_ChangeOpenClose  --->  The value      of the change between the closing and opening price of Oil
+P_OIL_ChangeOpenClose  --->  The percentage of the change between the closing and opening price of Oil
+
+V_APL_ChangeClose      --->  The value      of the change in      the closing             price of Apple Stock
+P_APL_ChangeClose      --->  The percentage of the change in      the closing             price of Apple Stock
+V_IBM_ChangeOpenClose  --->  The value      of the change between the closing and opening price of IBM Stock
+P_IBM_ChangeOpenClose  --->  The percentage of the change between the closing and opening price of IBM Stock
+V_GGL_ChangeClose      --->  The value      of the change in      the closing             price of Google Stock
+P_GGL_ChangeClose      --->  The percentage of the change in      the closing             price of Google Stock
+V_TSL_ChangeOpenClose  --->  The value      of the change between the closing and opening price of Tesla Stock
+P_TSL_ChangeOpenClose  --->  The percentage of the change between the closing and opening price of Tesla Stock
+V_BNB_ChangeClose      --->  The value      of the change in      the closing             price of Airbnb Stock
+P_BNB_ChangeClose      --->  The percentage of the change in      the closing             price of Airbnb Stock
+
+V_DJI_ChangeOpenClose  --->  The value      of the change between the closing and opening price of Dow Jones Indice
+P_DJI_ChangeOpenClose  --->  The percentage of the change between the closing and opening price of Dow Jones Indice
+V_SP%_ChangeClose      --->  The value      of the change in      the closing             price of S%P500 Indice
+P_SP5_ChangeClose      --->  The percentage of the change in      the closing             price of S%P500 Indice
